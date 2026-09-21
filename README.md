@@ -1,14 +1,8 @@
-# GBTM\_PSO
+# Psoriasis Biologics Adherence
 
-Analysis code for studying adherence trajectories and determinants among patients with psoriasis using biologics in Tuscany, Italy.
+Analysis code for the study “Trajectories and determinants of adherence to biologics in psoriasis: Evidence from the administrative data source of the Tuscany region”, investigating adherence trajectories and determinants among patients with psoriasis treated with biologics in Tuscany, Italy.
 
+## Script Structure
 
-
-\### Script Structure <!--(https://app.diagrams.net/#Dscript\_gbtm.drawio#%7B%22pageId%22%3A%22c7488fd3-1785-93aa-aadb-54a6760d102a%22%7D) -->
-
-
-
-
-
-!\[Structure of the Script](Documentation/structure.png)
+![Structure of the Script](Documentation/structure.png)
 
