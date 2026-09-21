@@ -65,6 +65,4 @@ doc <- read_docx() %>%
 
 print(doc, target = paste0(diroutput, "tab_output.docx"))
 
-
-### il tizio 1041 non è stato assegnato a nessun gruppo
  

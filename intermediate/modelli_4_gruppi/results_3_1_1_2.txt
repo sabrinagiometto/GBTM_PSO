@@ -1,0 +1,39 @@
+	(1)
+VARIABLES	y1
+	
+interc1	1.988
+	(0)
+linear1	-1.358
+	(0)
+quadra1	0.0836
+	(0)
+cubic1	-5.57e-05
+	(0)
+interc2	3.692
+	(0)
+linear2	-0.568
+	(0)
+interc3	1.365
+	(0)
+linear3	-0.0303
+	(0)
+interc4	20.01
+	(0)
+linear4	-21.55
+	(0)
+quadra4	6.581
+	(0)
+theta2	-0.633
+	(0)
+theta3	0.0476
+	(0)
+theta4	-0.372
+	(0)
+	
+Observations	.
+AIC	-9565
+BIC_data	-9621
+BIC_subject	-9604
+LogLikelihood	-9551
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

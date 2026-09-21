@@ -2,12 +2,12 @@
 cut.off <- 0.8
 
 # loading  data 
-data <- fread(paste0(dirinput, "adherence.csv"))
-cohort <- fread(paste0(dirinput, "cohort.csv"))
+data <- fread(paste0(dirinput, "adherence_exe.csv"))
+cohort <- fread(paste0(dirinput, "cohort_exe.csv"))
 
 # trasform adherence in binary, using cut.off
 data.bin <- data[, lapply(.SD, function(x) ifelse(x >= cut.off, 1, 0)), 
-                 .SDcols = 3:14]
+                 .SDcols = 2:13]
 
 # add ID
 data.bin <- cbind(ID = data$ID, data.bin)

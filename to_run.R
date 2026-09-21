@@ -11,13 +11,13 @@ setwd(thisdir)
 # directories 
 #-----------
 # input
-dirinput <- paste0(thisdir, "/../GBTM_PSO-repo_DATA/input/")
+dirinput <- paste0(thisdir, "/Data/")
 
 # intermediate
-dirintermediate <- paste0(thisdir, "/../GBTM_PSO-repo_DATA/intermediate/")
+dirintermediate <- paste0(thisdir, "/intermediate/")
 
 # output
-diroutput <- paste0(thisdir, "/../GBTM_PSO-repo_DATA/output/")
+diroutput <- paste0(thisdir, "/output/")
 
 #------------------------
 # libraries and functions  
